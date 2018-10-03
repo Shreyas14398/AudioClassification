@@ -1,6 +1,3 @@
-# Author: Shreyas
-# Date  : 2018-9-03
-#
 
 import glob
 import os

@@ -1,6 +1,3 @@
-# Author: Shreyas
-# Date  : 2018-9-03
-#
 import numpy as np
 import keras
 from keras.models import Sequential

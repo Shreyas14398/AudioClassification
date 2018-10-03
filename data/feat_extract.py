@@ -1,9 +1,3 @@
-# coding= UTF-8
-#
-# Author: Fing
-# Date  : 2017-12-03
-#
-
 import glob
 import os
 import librosa

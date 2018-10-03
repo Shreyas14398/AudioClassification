@@ -1,8 +1,3 @@
-# Author: Shreyas
-# Date  : 2018-9-03
-#
-
-
 import numpy as np
 import sklearn
 from sklearn.svm import SVC
